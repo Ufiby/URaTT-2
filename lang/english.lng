@@ -1,0 +1,211 @@
+##grflangid 0x01 
+
+STR_GRF_NAME			:U&RaTT 2
+STR_GRF_DESCRIPTION		:Adds new graphics tracks to use the features supported by NRT. This set includes a wide range of roads: from unpaved to highways as well as urban and industrial ones.{}Tram and trolleybus tracks are available if you have connected other tram and trolleybus sets.{}{}{BLACK}Requires version {SILVER}15.0 {BLACK}or later{}{}©2020 Yuri Gashin{}Draw or coded by {LTBLUE}Ufiby{}{BLACK}License: {SILVER}GPL v3{}
+STR_GRF_URL				:
+
+STR_OPENTTD_VERSION                     :15.0
+STR_INCOMPATIBILITY_URATT               :Simultaneous use with U&RaTT is prohibited. Only choose one of them.
+
+STR_PARAM_GUI_NAME                      :GUI
+STR_PARAM_GUI_DESC                      :Displays the corresponding graphical icons and cursors in the OpenTTD style.
+STR_PARAM_GUI_0                         :TTD
+STR_PARAM_GUI_1                         :OpenGFX
+STR_PARAM_GUI_2                         :OpenGFX 2
+STR_PARAM_GUI_3                         :U&GUI
+
+STR_PARAM_ROADTYPE_SELECTION_NAME       :Roadtypes selection
+STR_PARAM_ROADTYPE_SELECTION_DESC       :This option allows you to select the number of available road and tramway types.
+STR_PARAM_ROADTYPE_SELECTION_FULL       :Full
+STR_PARAM_ROADTYPE_SELECTION_REDUCED    :Reduced
+STR_PARAM_ROADTYPE_SELECTION_MINIMAL    :Minimal
+
+STR_PARAM_SPEED_LIMIT_NAME              :Speed limit
+STR_PARAM_SPEED_LIMIT_DESC              :This option allows you to select speed limits.{}Select road types: "{SILVER}Minimal{BLACK}" on which speed limits will be lifted.
+STR_PARAM_SPEED_LIMIT_0                 :Easy
+STR_PARAM_SPEED_LIMIT_1                 :Default
+STR_PARAM_SPEED_LIMIT_2                 :Hard
+
+STR_PARAM_STYLE_NAME                    :Road style
+STR_PARAM_STYLE_DESC                    :This parameter allows you to configure which style is applied to the road surface, the color of the stripes and lines: {WHITE}white {BLACK}or {YELLOW}yellow
+STR_PARAM_STYLE_WHITE                   :White
+STR_PARAM_STYLE_YELLOW                  :Yellow
+
+STR_PARAM_TUNNEL_NAME                   :Custom tunnel
+STR_PARAM_TUNNEL_DESC                   :By default, the tunnel landscape is determined by climatic conditions.
+STR_PARAM_TUNNEL_0                      :Default
+STR_PARAM_TUNNEL_1                      :Temperate landscape
+STR_PARAM_TUNNEL_2                      :Arctic landscape
+STR_PARAM_TUNNEL_3                      :Tropical landscape
+
+STR_PARAM_ORD1_NO_HOUSES_NAME           :Disallow house construction along Dirt road
+STR_PARAM_ORD1_NO_HOUSES_DESC           :By default, it is allowed to build houses along the Dirt road.
+
+STR_PARAM_ARD0_NO_HOUSES_NAME           :Disallow house construction along Asphalt road
+STR_PARAM_ARD0_NO_HOUSES_DESC           :By default, it is allowed to build houses along the Asphalt road.
+
+STR_PARAM_ARD1_NO_HOUSES_NAME           :Disallow house construction along Road (class B)
+STR_PARAM_ARD1_NO_HOUSES_DESC           :By default, it is allowed to build houses along the Road (class B).
+
+STR_PARAM_ARD2_NO_HOUSES_NAME           :Disallow house construction along Road (class A)
+STR_PARAM_ARD2_NO_HOUSES_DESC           :By default, it is allowed to build houses along the Road (class A).
+
+STR_PARAM_LIGHTING_NAME                 :Lighting
+STR_PARAM_LIGHTING_DESC                 :Enable lighting
+
+STR_BUILD_WINDOW_CAPTION_ROAD           :New Road Vehicles
+STR_AUTOREPLACE_ROAD                    :Road vehicles
+STR_NEW_ENGINE_ROAD                     :Road vehicles
+
+STR_BUILD_WINDOW_CAPTION_TRAM           :New Tram Vehicles
+STR_AUTOREPLACE_TRAM                    :Tram vehicles
+STR_NEW_ENGINE_TRAM                     :Tram vehicles
+
+STR_NAME_ORD0                           :Field road
+STR_TOOLBAR_ORD0                        :Field road
+STR_MENU_ORD0                           :Field road
+
+STR_NAME_ORD1                           :Dirt road
+STR_TOOLBAR_ORD1                        :Dirt road
+STR_MENU_ORD1                           :Dirt road
+
+STR_NAME_ORD2                           :Sand road
+STR_TOOLBAR_ORD2                        :Sand road
+STR_MENU_ORD2                           :Sand road
+
+STR_NAME_ORD3                           :Gravel road
+STR_TOOLBAR_ORD3                        :Gravel road
+STR_MENU_ORD3                           :Gravel road
+
+STR_NAME_SRD0                           :Paved stone road
+STR_TOOLBAR_SRD0                        :Paved stone road
+STR_MENU_SRD0                           :Paved stone road
+
+STR_NAME_SRD1                           :Cement slabs road
+STR_TOOLBAR_SRD1                        :Cement slabs road
+STR_MENU_SRD1                           :Cement slabs road
+
+STR_NAME_SRD2                           :Concrete road
+STR_TOOLBAR_SRD2                        :Concrete road
+STR_MENU_SRD2                           :Concrete road
+
+STR_NAME_SRD3                           :Concrete slabs road
+STR_TOOLBAR_SRD3                        :Concrete slabs road
+STR_MENU_SRD3                           :Concrete slabs road
+
+STR_NAME_ROAD                           :Basic road
+STR_TOOLBAR_ROAD                        :Basic road
+STR_MENU_ROAD                           :Basic road
+
+STR_NAME_ARD0                           :Asphalt road
+STR_TOOLBAR_ARD0                        :Asphalt road
+STR_MENU_ARD0                           :Asphalt road
+
+STR_NAME_ARD1                           :Road (class B)
+STR_TOOLBAR_ARD1                        :Road (class B)
+STR_MENU_ARD1                           :Road (class B)
+
+STR_NAME_ARD2                           :Road (class A)
+STR_TOOLBAR_ARD2                        :Road (class A)
+STR_MENU_ARD2                           :Road (class A)
+
+STR_NAME_WRD0                           :Highway
+STR_TOOLBAR_WRD0                        :Highway
+STR_MENU_WRD0                           :Highway
+
+STR_NAME_URD0                           :Residential road
+STR_TOOLBAR_URD0                        :Residential road
+STR_MENU_URD0                           :Residential road
+
+STR_NAME_URD1                           :Urban road
+STR_TOOLBAR_URD1                        :Urban road
+STR_MENU_URD1                           :Urban road
+
+STR_NAME_DRD0                           :Dirt yard road
+STR_TOOLBAR_DRD0                        :Dirt yard road
+STR_MENU_DRD0                           :Dirt yard road
+
+STR_NAME_DRD1                           :Cobblestone road
+STR_TOOLBAR_DRD1                        :Cobblestone road
+STR_MENU_DRD1                           :Cobblestone road
+
+STR_NAME_DRD2                           :Pavement road
+STR_TOOLBAR_DRD2                        :Pavement road
+STR_MENU_DRD2                           :Pavement road
+
+STR_NAME_DRD3                           :Industrial road
+STR_TOOLBAR_DRD3                        :Industrial road
+STR_MENU_DRD3                           :Industrial road
+
+STR_NAME_DRD4                           :Cement slabs yard road
+STR_TOOLBAR_DRD4                        :Cement slabs yard road
+STR_MENU_DRD4                           :Cement slabs yard road
+
+STR_NAME_DRD5                           :Asphalt concrete road
+STR_TOOLBAR_DRD5                        :Asphalt concrete road
+STR_MENU_DRD5                           :Asphalt concrete road
+
+STR_NAME_DRD6                           :Cement concrete road
+STR_TOOLBAR_DRD6                        :Cement concrete road
+STR_MENU_DRD6                           :Cement concrete road
+
+STR_NAME_ELRD                           :Basic road {LTBLUE}(electrified)
+STR_TOOLBAR_ELRD                        :Basic road {LTBLUE}(electrified)
+STR_MENU_ELRD                           :Basic road {LTBLUE}(electrified)
+
+STR_NAME_ERD0                           :Asphalt road {LTBLUE}(electrified)
+STR_TOOLBAR_ERD0                        :Asphalt road {LTBLUE}(electrified)
+STR_MENU_ERD0                           :Asphalt road {LTBLUE}(electrified)
+
+STR_NAME_ERD1                           :Road (class B) {LTBLUE}(electrified)
+STR_TOOLBAR_ERD1                        :Road (class B) {LTBLUE}(electrified)
+STR_MENU_ERD1                           :Road (class B) {LTBLUE}(electrified)
+
+STR_NAME_ERD2                           :Residential road {LTBLUE}(electrified)
+STR_TOOLBAR_ERD2                        :Residential road {LTBLUE}(electrified)
+STR_MENU_ERD2                           :Residential road {LTBLUE}(electrified)
+
+STR_NAME_ERD3                           :Urban road {LTBLUE}(electrified)
+STR_TOOLBAR_ERD3                        :Urban road {LTBLUE}(electrified)
+STR_MENU_ERD3                           :Urban road {LTBLUE}(electrified)
+
+STR_NAME_TRL0                           :Overgrown tramway
+STR_TOOLBAR_TRL0                        :Overgrown tramway
+STR_MENU_TRL0                           :Overgrown tramway
+
+STR_NAME_TEL0                           :Overgrown tramway {LTBLUE}(electrified)
+STR_TOOLBAR_TEL0                        :Overgrown tramway {LTBLUE}(electrified)
+STR_MENU_TEL0                           :Overgrown tramway {LTBLUE}(electrified)
+
+STR_NAME_RAIL                           :Tramway
+STR_TOOLBAR_RAIL                        :Tramway
+STR_MENU_RAIL                           :Tramway
+
+STR_NAME_ELRL                           :Tramway {LTBLUE}(electrified)
+STR_TOOLBAR_ELRL                        :Tramway {LTBLUE}(electrified)
+STR_MENU_ELRL                           :Tramway {LTBLUE}(electrified)
+
+STR_NAME_TEL1                           :Concrete tramway {LTBLUE}(electrified)
+STR_TOOLBAR_TEL1                        :Concrete tramway {LTBLUE}(electrified)
+STR_MENU_TEL1                           :Concrete tramway {LTBLUE}(electrified)
+
+STR_NAME_TEL2                           :Urban tramway {LTBLUE}(electrified)
+STR_TOOLBAR_TEL2                        :Urban tramway {LTBLUE}(electrified)
+STR_MENU_TEL2                           :Urban tramway {LTBLUE}(electrified)
+
+STR_NAME_LT0                            :Lighting {YELLOW}(Both)
+STR_TOOLBAR_LT0                         :Lighting {YELLOW}(Both)
+STR_MENU_LT0                            :Lighting {YELLOW}(Both)
+
+STR_NAME_LT1                            :Lighting {YELLOW}(Right)
+STR_TOOLBAR_LT1                         :Lighting {YELLOW}(Right)
+STR_MENU_LT1                            :Lighting {YELLOW}(Right)
+
+STR_NAME_LT2                            :Lighting {YELLOW}(Left)
+STR_TOOLBAR_LT2                         :Lighting {YELLOW}(Left)
+STR_MENU_LT2                            :Lighting {YELLOW}(Left)
+
+STR_ROADTYPE_FLAG_NO_HOUSES             :no houses
+
+STR_STRING_NAME                         :{PUSH_COLOUR}{STRING}{POP_COLOUR}
+STR_STRING_MENU                         :{PUSH_COLOUR}{STRING}{POP_COLOUR}{PUSH_COLOUR}{WHITE}

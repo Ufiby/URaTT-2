@@ -1,0 +1,200 @@
+##grflangid 0x07
+
+STR_GRF_DESCRIPTION				   :Добавляет новые графические дороги для использования функций, поддерживаемых NRT. Этот набор включает в себя широкий выбор дорог: грунтовые, асфальтированные и "декоративные" дороги.{}Трамвайные и троллейбусные пути доступны, если вы подключены другие трамвайные и троллейбусные наборы.{}{}{BLACK}Требуемая версия {SILVER}15.0 {BLACK}и позднее{}{}©2020 Yuri Gashin{}Draw or coded by {LTBLUE}Ufiby{}{BLACK}License: {SILVER}GPL v3{}
+
+STR_INCOMPATIBILITY_URATT               :Одновременное применение с U&RaTT запрещено. Выберите только один из них.
+
+STR_PARAM_GUI_NAME                      :Интерфейс
+STR_PARAM_GUI_DESC                      :Отображает соответствующие графические значки и курсоры в стиле OpenTTD.
+
+STR_PARAM_ROADTYPE_SELECTION_NAME       :Выбор дорожные типы
+STR_PARAM_ROADTYPE_SELECTION_DESC       :Эта опция позволяет вам выбрать количество доступных типов дорожных и трамвайных путей.
+STR_PARAM_ROADTYPE_SELECTION_FULL       :Полные
+STR_PARAM_ROADTYPE_SELECTION_REDUCED    :Сокращенные
+STR_PARAM_ROADTYPE_SELECTION_MINIMAL    :Минимальные
+
+STR_PARAM_SPEED_LIMIT_NAME              :Ограничение скорости
+STR_PARAM_SPEED_LIMIT_DESC              :Эта опция позволяет вам выбрать ограничения скорости.{}Выбор дорожные типы: "{SILVER}Минимальные{BLACK}", на которых будут сняты ограничения скорости.
+STR_PARAM_SPEED_LIMIT_0                 :Упрощенные
+STR_PARAM_SPEED_LIMIT_1                 :По умолчанию
+STR_PARAM_SPEED_LIMIT_2                 :Жесткие
+
+
+STR_PARAM_STYLE_NAME                    :Окраска полос и линий
+STR_PARAM_STYLE_DESC                    :Этот параметр позволяет настроить, какой стиль будет применен к дорожному покрытию, цвет полос и линий: {WHITE}БЕЛЫЙ {BLACK}или {YELLOW}ЖЕЛТЫЙ
+STR_PARAM_STYLE_WHITE                   :Белый
+STR_PARAM_STYLE_YELLOW                  :Жёлтый
+
+STR_PARAM_TUNNEL_NAME                   :Пользовательский туннель
+STR_PARAM_TUNNEL_DESC                   :По умолчанию ландшафт туннеля определяется климатическими условиями.
+STR_PARAM_TUNNEL_0                      :По умолчанию
+STR_PARAM_TUNNEL_1                      :Ландшафт с умеренным климатом
+STR_PARAM_TUNNEL_2                      :Ландшафт с арктическим климатом
+STR_PARAM_TUNNEL_3                      :Ландшафт с тропическим климатом
+
+STR_PARAM_ORD1_NO_HOUSES_NAME           :Запретить строительство домов вдоль грунтовой дороги
+STR_PARAM_ORD1_NO_HOUSES_DESC           :По умолчанию разрешено строить дома вдоль грунтовой дороги.
+
+STR_PARAM_ARD0_NO_HOUSES_NAME           :Запретить строительство домов вдоль асфальтированной дороги
+STR_PARAM_ARD0_NO_HOUSES_DESC           :По умолчанию разрешено строить дома вдоль асфальтированной дороги.
+
+STR_PARAM_ARD1_NO_HOUSES_NAME           :Запретить строительство домов вдоль дорог (категория III)
+STR_PARAM_ARD1_NO_HOUSES_DESC           :По умолчанию разрешено строить дома вдоль дороги (категория III).
+
+STR_PARAM_ARD2_NO_HOUSES_NAME           :Запретить строительство домов вдоль дорог (категория II)
+STR_PARAM_ARD2_NO_HOUSES_DESC           :По умолчанию разрешено строить дома вдоль дороги (категория II).
+
+STR_PARAM_LIGHTING_NAME                 :Освещение
+STR_PARAM_LIGHTING_DESC                 :Включить освещение
+
+STR_BUILD_WINDOW_CAPTION_ROAD           :Новый автомобиль
+STR_AUTOREPLACE_ROAD                    :дорожные транспортные средства
+STR_NEW_ENGINE_ROAD                     :дорожное транспортное средство
+
+STR_BUILD_WINDOW_CAPTION_TRAM           :Новый трамвай
+STR_AUTOREPLACE_TRAM                    :трамвайные транспортные средства
+STR_NEW_ENGINE_TRAM                     :трамвайное транспортное средство
+
+STR_NAME_ORD0                           :Полевая дорога
+STR_TOOLBAR_ORD0                        :Полевая дорога
+STR_MENU_ORD0                           :Полевая дорога
+
+STR_NAME_ORD1                           :Грунтовая дорога
+STR_TOOLBAR_ORD1                        :Грунтовая дорога
+STR_MENU_ORD1                           :Грунтовая дорога
+
+STR_NAME_ORD2                           :Песчаная дорога
+STR_TOOLBAR_ORD2                        :Песчаная дорога
+STR_MENU_ORD2                           :Песчаная дорога
+
+STR_NAME_ORD3                           :Гравийная дорога
+STR_TOOLBAR_ORD3                        :Гравийная дорога
+STR_MENU_ORD3                           :Гравийная дорога
+
+STR_NAME_SRD0                           :Мощёная дорога
+STR_TOOLBAR_SRD0                        :Мощёная дорога
+STR_MENU_SRD0                           :Мощёная дорога
+
+STR_NAME_SRD1                           :Дорога из цементных плит
+STR_TOOLBAR_SRD1                        :Дорога из цементных плит
+STR_MENU_SRD1                           :Дорога из цементных плит
+
+STR_NAME_SRD2                           :Бетонная дорога
+STR_TOOLBAR_SRD2                        :Бетонная дорога
+STR_MENU_SRD2                           :Бетонная дорога
+
+STR_NAME_SRD3                           :Дорожные плитки ПАГ
+STR_TOOLBAR_SRD3                        :Дорожные плитки ПАГ
+STR_MENU_SRD3                           :Дорожные плитки ПАГ
+
+STR_NAME_ROAD                           :Основная дорога
+STR_TOOLBAR_ROAD                        :Основная дорога
+STR_MENU_ROAD                           :Основная дорога
+
+STR_NAME_ARD0                           :Асфальтированная дорога
+STR_TOOLBAR_ARD0                        :Асфальтированная дорога
+STR_MENU_ARD0                           :Асфальтированная дорога
+
+STR_NAME_ARD1                           :Дорога (категория III)
+STR_TOOLBAR_ARD1                        :Дорога (категория III)
+STR_MENU_ARD1                           :Дорога (категория III)
+
+STR_NAME_ARD2                           :Дорога (категория II)
+STR_TOOLBAR_ARD2                        :Дорога (категория II)
+STR_MENU_ARD2                           :Дорога (категория II)
+
+STR_NAME_WRD0                           :Автомагистраль
+STR_TOOLBAR_WRD0                        :Автомагистраль
+STR_MENU_WRD0                           :Автомагистраль
+
+STR_NAME_URD0                           :Жилая дорога
+STR_TOOLBAR_URD0                        :Жилая дорога
+STR_MENU_URD0                           :Жилая дорога
+
+STR_NAME_URD1                           :Городская дорога
+STR_TOOLBAR_URD1                        :Городская дорога
+STR_MENU_URD1                           :Городская дорога
+
+STR_NAME_DRD0                           :Грунтовая площадка
+STR_TOOLBAR_DRD0                        :Грунтовая площадка
+STR_MENU_DRD0                           :Грунтовая площадка
+
+STR_NAME_DRD1                           :Булыжная дорога
+STR_TOOLBAR_DRD1                        :Булыжная дорога
+STR_MENU_DRD1                           :Булыжная дорога
+
+STR_NAME_DRD2                           :Мостовая дорога
+STR_TOOLBAR_DRD2                        :Мостовая дорога
+STR_MENU_DRD2                           :Мостовая дорога
+
+STR_NAME_DRD3                           :Промышленная дорога
+STR_TOOLBAR_DRD3                        :Промышленная дорога
+STR_MENU_DRD3                           :Промышленная дорога
+
+STR_NAME_DRD4                           :Цементно плиточная дорога
+STR_TOOLBAR_DRD4                        :Цементно плиточная дорога
+STR_MENU_DRD4                           :Цементно плиточная дорога
+
+STR_NAME_DRD5                           :Асфальтобетонная дорога
+STR_TOOLBAR_DRD5                        :Асфальтобетонная дорога
+STR_MENU_DRD5                           :Асфальтобетонная дорога
+
+STR_NAME_DRD6                           :Цементобетонная дорога
+STR_TOOLBAR_DRD6                        :Цементобетонная дорога
+STR_MENU_DRD6                           :Цементобетонная дорога
+
+STR_NAME_ELRD                           :Основная дорога {LTBLUE}(контактный сеть)
+STR_TOOLBAR_ELRD                        :Основная дорога {LTBLUE}(конт. сеть)
+STR_MENU_ELRD                           :Основная дорога {LTBLUE}(контактный сеть)
+
+STR_NAME_ERD0                           :Асфальтированная дорога {LTBLUE}(контактный сеть)
+STR_TOOLBAR_ERD0                        :Асфальт. дорога {LTBLUE}(конт. сеть)
+STR_MENU_ERD0                           :Асфальтированная дорога {LTBLUE}(контактный сеть)
+
+STR_NAME_ERD1                           :Дорога (категория III) {LTBLUE}(контактный сеть)
+STR_TOOLBAR_ERD1                        :Дорога (категория III) {LTBLUE}(конт. сеть)
+STR_MENU_ERD1                           :Дорога (категория III) {LTBLUE}(контактный сеть)
+
+STR_NAME_ERD2                           :Жилая дорога {LTBLUE}(контактный сеть)
+STR_TOOLBAR_ERD2                        :Жилая дорога {LTBLUE}(конт. сеть)
+STR_MENU_ERD2                           :Жилая дорога {LTBLUE}(контактный сеть)
+
+STR_NAME_ERD3                           :Городская дорога {LTBLUE}(контактный сеть)
+STR_TOOLBAR_ERD3                        :Город. дорога {LTBLUE}(конт. сеть)
+STR_MENU_ERD3                           :Городская дорога {LTBLUE}(контактный сеть)
+
+STR_NAME_TRL0                           :Заросший трамвай.путь
+STR_TOOLBAR_TRL0                        :Заросший трамвай.путь
+STR_MENU_TRL0                           :Заросший трамвай.путь
+
+STR_NAME_TEL0                           :Заросший трамвай.путь {LTBLUE}(контактный сеть)
+STR_TOOLBAR_TEL0                        :Заросший трамвай.путь {LTBLUE}(конт. сеть)
+STR_MENU_TEL0                           :Заросший трамвай.путь {LTBLUE}(контактный сеть)
+
+STR_NAME_RAIL                           :Трамвайный путь
+STR_TOOLBAR_RAIL                        :Трамвайный путь
+STR_MENU_RAIL                           :Трамвайный путь
+
+STR_NAME_ELRL                           :Трамвайный путь {LTBLUE}(контактный сеть)
+STR_TOOLBAR_ELRL                        :Трамвайный путь {LTBLUE}(контактный сеть)
+STR_MENU_ELRL                           :Трамвайный путь {LTBLUE}(контактный сеть)
+
+STR_NAME_TEL1                           :Бетонный трамвайный путь {LTBLUE}(контактный сеть)
+STR_TOOLBAR_TEL1                        :Бетонный трамвай. путь {LTBLUE}(конт. сеть)
+STR_MENU_TEL1                           :Бетонный трамвай. путь {LTBLUE}(контактный сеть)
+
+STR_NAME_TEL2                           :Городской трамвай.путь {LTBLUE}(контактный сеть)
+STR_TOOLBAR_TEL2                        :Город. трамвай.путь {LTBLUE}(контактный сеть)
+STR_MENU_TEL2                           :Городской трамвай.путь {LTBLUE}(контактный сеть)
+
+STR_NAME_LT0                            :Освещение {YELLOW}(оба)
+STR_TOOLBAR_LT0                         :Освещение {YELLOW}(оба)
+STR_MENU_LT0                            :Освещение {YELLOW}(оба)
+
+STR_NAME_LT1                            :Освещение {YELLOW}(правые)
+STR_TOOLBAR_LT1                         :Освещение {YELLOW}(правые)
+STR_MENU_LT1                            :Освещение {YELLOW}(правые)
+
+STR_NAME_LT2                            :Освещение {YELLOW}(левые)
+STR_TOOLBAR_LT2                         :Освещение {YELLOW}(левые)
+STR_MENU_LT2                            :Освещение {YELLOW}(левые)
